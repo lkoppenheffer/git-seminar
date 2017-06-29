@@ -1,7 +1,16 @@
-h1 {
-    text-align: center;
+body
+{
+     background-image: url("http://cdn.wallpapersafari.com/84/39/rjcu7q.jpg");
 }
 
-ul {
+h1 
+{
+    text-align: center;
+    font-weight:lighter;
     
+}
+
+ul 
+{
+    color:lightblue;
 }
